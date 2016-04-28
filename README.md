@@ -76,7 +76,7 @@ Least Authority, LLC, is a private company specializing in privacy
 preserving, decentralized, open source, and user-empowering technologies.
 We've performed security audits and provided security and cryptography
 engineering consultation for a variety of open source privacy or
-transparency related projects, including [CryptoCat](https://leastauthority.com/blog/least_authority_performs_security_audit_for_cryptocat.html), [GlobalLeaks](https://leastauthority.com/blog/least_authority_performs_security_audit_for_globaleaks.html), [SpiderOak](https://leastauthority.com/blog/least_authority_performs_security_audit_for_spideroak.html), and [Ooni](https://lists.torproject.org/pipermail/ooni-dev/2013-August/000067.html)
+transparency related projects, including [CryptoCat](https://leastauthority.com/blog/least_authority_performs_security_audit_for_cryptocat.html), [GlobalLeaks](https://leastauthority.com/blog/least_authority_performs_security_audit_for_globaleaks.html), [SpiderOak](https://leastauthority.com/blog/least_authority_performs_security_audit_for_spideroak.html), and [Ooni](https://lists.torproject.org/pipermail/ooni-dev/2013-August/000067.html).
 
 Additionally, Least Authority employs most of the core developers of
 the Tahoe-LAFS decentralized secure data storage network.
